@@ -63,6 +63,7 @@ which acronym is not that important but here is a list of recommended ones (see 
 * CHG: for a change requesting consideration when upgrading
 * DOC: for documentation aspects
 * WEB: anything regarding the website
+* DEV: relevant to developers
 
 ==== Merging changes to master
 
